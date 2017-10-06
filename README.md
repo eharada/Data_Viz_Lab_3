@@ -11,7 +11,10 @@ Focusing in healthcare
 ![image](https://user-images.githubusercontent.com/32119820/31260232-4e448814-aa01-11e7-8553-f2119d0633a6.png)
 
 </br>
-The above graphs depict a general increase in healthcare stock prices even though the data breaches regardless of the data breaches. This is in line with the study as the healthcare industry has a much higher per capita cost for security breaches than any other sector. The higher costs are attributed to heavy regulations. Because of the heavy regulations, the stock market doesn't lose confidence in this industry. The stock market can see that healthcare puts more resources into data breaches, which shows as their costs are twice the amount of the average cost. They know that healtcare is able to bounce back after these data breaches. With higher confidence, you are less likely to see a sudden decrease in stock prices.
+The above graph is a little confusing to see 4 different charts. The next iteration should try to combine all the graphs together.
+
+<br/><br/>
+The above graphs depict a general increase in healthcare stock prices even though the data breaches regardless of the data breaches. This is in line with the study as the healthcare industry has a much higher per capita cost for security breaches than any other sector. The higher costs are attributed to heavy regulations. Because of the heavy regulations, the stock market doesn't lose confidence in this industry. The stock market can see that healthcare puts more resources into data breaches and are able to bounce back, which show as their costs are twice the amount of the average cost. They know that healtcare is able to bounce back after these data breaches. With higher confidence, you are less likely to see a sudden decrease in stock prices.
 </br></br>
 
 
