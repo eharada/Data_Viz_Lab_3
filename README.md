@@ -23,7 +23,7 @@ The charts show a comparison of data breaches and stock prices per year. It is s
 <br/><br/>
 
 ## Final Iteration: 
-The top chart shows the stock price increase per quarter. The grey boxes show the years with data breaches in the healthcare industry. The bottom chart shows the magnitude of each data breach in 2014 and 2016. 
+The top chart shows the stock price increase per quarter. The grey boxes show the years with data breaches in the healthcare industry. The bottom chart shows the magnitude of each data breach in 2014 and 2016. Although there was a slight dip in 2016, the stock prices kept slowly rising.
 
 ![image](https://user-images.githubusercontent.com/32119820/31303539-0ea32012-aac4-11e7-89a2-812d62862b4e.png)
 ![image](https://user-images.githubusercontent.com/32119820/31303543-294be138-aac4-11e7-92f3-0f50f913d09e.png)
