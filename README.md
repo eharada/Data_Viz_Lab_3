@@ -15,20 +15,19 @@ The above graph is a little confusing to see 4 different charts. The next iterat
 
 <br/><br/>
 
-## 2nd Iteration:The charts show a comparison with the years lined up. It is shown that there is a general increase in the closing prices over the years in healthcare. However it would be nice to see more granular details of closing prices per week.
+## 2nd Iteration: The charts show a comparison with the years lined up. It is shown that there is a general increase in the closing prices over the years in healthcare. However it would be nice to see more granular details of closing prices per week.
 
 ![image](https://user-images.githubusercontent.com/32119820/31264205-50ffaca8-aa1c-11e7-828e-6abff121a31a.png)
 ![image](https://user-images.githubusercontent.com/32119820/31264266-b7060ba0-aa1c-11e7-9722-f937c6e74597.png)
 
 
-</br>
-The above graphs depict a general increase in healthcare stock prices regardless of the data breaches. This is in line with the study as the healthcare industry on average has a much higher per capita cost for security breaches than any other sector. The higher costs are attributed to heavy regulations. Because of the heavy regulations, the stock market doesn't lose confidence in this industry. The stock market can see that healthcare puts more resources into data breaches and are able to bounce back, which show as their costs are twice the amount of the average cost. They know that healtcare is able to bounce back after these data breaches. With higher confidence, you are less likely to see a sudden decrease in stock prices.
-</br></br>
+<br/><br/>
 
-
+## (Final) Iteration: The top chart shows the stock prices trend 
 ![image](https://user-images.githubusercontent.com/32119820/31303539-0ea32012-aac4-11e7-89a2-812d62862b4e.png)
 ![image](https://user-images.githubusercontent.com/32119820/31303543-294be138-aac4-11e7-92f3-0f50f913d09e.png)
 
+The above graphs depict a general increase in healthcare stock prices regardless of the data breaches. This is in line with the study as the healthcare industry on average has a much higher per capita cost for security breaches than any other sector. The higher costs are attributed to heavy regulations. Because of the heavy regulations, the stock market doesn't lose confidence in this industry. The stock market can see that healthcare puts more resources into data breaches and are able to bounce back, which show as their costs are twice the amount of the average cost. They know that healtcare is able to bounce back after these data breaches. With higher confidence, you are less likely to see a sudden decrease in stock prices.
 
 <br/></br>
 Advantage: This stock price chart shows the greyed out area of which year the data breaches occurred. This is helpful in seeing the closing dates around that time to see if there was a vast increase, decrease, or if it remained relatively steady.
