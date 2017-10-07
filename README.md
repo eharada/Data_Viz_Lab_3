@@ -22,13 +22,15 @@ The above graph is a little confusing to see 4 different charts. The next iterat
 
 
 </br>
-The above graphs depict a general increase in healthcare stock prices even though the data breaches regardless of the data breaches. This is in line with the study as the healthcare industry has a much higher per capita cost for security breaches than any other sector. The higher costs are attributed to heavy regulations. Because of the heavy regulations, the stock market doesn't lose confidence in this industry. The stock market can see that healthcare puts more resources into data breaches and are able to bounce back, which show as their costs are twice the amount of the average cost. They know that healtcare is able to bounce back after these data breaches. With higher confidence, you are less likely to see a sudden decrease in stock prices.
+The above graphs depict a general increase in healthcare stock prices regardless of the data breaches. This is in line with the study as the healthcare industry on average has a much higher per capita cost for security breaches than any other sector. The higher costs are attributed to heavy regulations. Because of the heavy regulations, the stock market doesn't lose confidence in this industry. The stock market can see that healthcare puts more resources into data breaches and are able to bounce back, which show as their costs are twice the amount of the average cost. They know that healtcare is able to bounce back after these data breaches. With higher confidence, you are less likely to see a sudden decrease in stock prices.
 </br></br>
 
 
+![image](https://user-images.githubusercontent.com/32119820/31303539-0ea32012-aac4-11e7-89a2-812d62862b4e.png)
+![image](https://user-images.githubusercontent.com/32119820/31303543-294be138-aac4-11e7-92f3-0f50f913d09e.png)
 
 
 <br/></br>
-Advantage: 
+Advantage: This stock price chart shows the greyed out area of which year the data breaches occurred. This is helpful in seeing the closing dates around that time to see if there was a vast increase, decrease, or if it remained relatively steady.
 </br>
 Disadvantage: This shows an overview per month and year of stock prices changes. It doesn't show the daily or weekly changes in stock prices. This would be beneficial to have more accurate data of when the data breach occurred and compare the stock prices surrounding those weeks.
