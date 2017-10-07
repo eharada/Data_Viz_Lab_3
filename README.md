@@ -38,4 +38,4 @@ The above graphs depict a general increase in healthcare stock prices regardless
 <br/><br/>
 Advantage: This stock price chart shows the years the data breaches occurred. This is helpful in seeing the closing dates around that time to see if there was a vast increase, decrease, or if it remained relatively steady.
 </br>
-Disadvantage: This shows an overview per month and year of stock prices changes. It doesn't show the daily or weekly changes in stock prices. It would be beneficial to see the exact date of the data breaches and then compare the stock prices around that date.
+Disadvantage: This shows an overview per quarter and year of stock prices changes. It doesn't show the daily or weekly changes in stock prices. It would be beneficial to see the exact date of the data breaches and then compare the stock prices around that date.
