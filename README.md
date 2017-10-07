@@ -9,7 +9,7 @@ These charts display the years that the data breaches happened and also display 
 ![image](https://user-images.githubusercontent.com/32119820/31260232-4e448814-aa01-11e7-8553-f2119d0633a6.png)
 
 </br>
-The disadvantage with the above graph is that it is a little confusing to see 4 different charts. The reader might have trouble following the data visualizations. The next iteration should try to combine all the graphs together.
+The disadvantage with the above graph is that it is a little confusing to see 4 different charts. The audience might have trouble following the data visualizations. The next iteration should try to combine all the graphs together.
 
 <br/><br/>
 
@@ -37,6 +37,6 @@ The top chart shows the stock price increase per year while the bottom chart sho
 The data visualizations show that security breaches do not affect the financial market in the United States. This is in line with the study as it shows how the United States takes vast measures after security breaches. The cost for recovery for the United States is, on average, much higher than the average for all countries. This shows that the United States has the resources to bounce back after each breach, which lead to higher confidence in the financial market. With higher confidence, you are less likely to see a sudden increase or decrease in stock prices.
 
 <br/><br/>
-Advantage: This stock price chart shows the years the data breaches occurred. This is helpful in seeing the difference between the highest and lowest closing dates around that time to see if there was a vast increase, decrease, or if it remained relatively steady.
+Advantage: This stock price chart shows that there is a smooth trend over the years and that there are no sudden spikes. It's easy for the audience to visualize and understand. This is helpful in seeing whether there was a vast increase, decrease, or if it remained relatively steady.
 <br/>
 Disadvantage: This shows an overview per year of stock prices changes. However, it doesn't show the daily or weekly changes in stock prices. It would be beneficial to see the exact date of the data breaches and then compare the stock prices around that date.
